@@ -1,5 +1,16 @@
 
+local update 0555  就不冲突
+我就是不信邪
+<<<<<<< .mine
+
 github edit 04  我改了你为啥不冲突
 
 local update 0555  就不冲突
 asdasd
+=======
+我就是不信邪
+
+
+
+
+>>>>>>> .theirs
